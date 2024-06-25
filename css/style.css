@@ -582,8 +582,7 @@ footer .credit a {
   right: 1rem;
 }
 
-.modal-content
- {
+.modal-content {
   display: flex;
   flex-wrap: nowrap;
 }
